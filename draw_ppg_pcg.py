@@ -1,3 +1,4 @@
+# This code processes the data from the PPG and PCG sensors to find the systolic and diastolic peaks and calculate the ET and VTT values.
 ppg_data = []
 pcg_data = []
 fs=500
